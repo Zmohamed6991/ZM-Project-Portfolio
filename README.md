@@ -24,7 +24,6 @@ A personal expense tracking app built with Go and Gin framework. It allows users
 ## 2. E-Commerce - Sole Select
 Contributed and collaborated with project managers and developers on an e-commerce project called Sole Select - a sneaker trading website.
 
-- #Tech Stack:
 - **Backend**: Go, Gin
 - **Database**: PostgreSQL, GORM
 

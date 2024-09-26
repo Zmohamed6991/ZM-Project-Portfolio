@@ -40,6 +40,8 @@ Contributed and collaborated with project managers and developers on an e-commer
   - Set up user authentication using JWT-based authentication.
   - Users can place orders, view their order history, and check order statuses.
   - CRUD APIs.
+
+    
 #Links:
 [Demo](https://drive.google.com/file/d/1glPezV347OwBZpPMLP0LneaZBgpKRN6c/view?usp=drive_link)
 [GitHub Repository]([https://github.com/your-username/project-2](https://github.com/Mariana-consultancy/e-commerce-3)

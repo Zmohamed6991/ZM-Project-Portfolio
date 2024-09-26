@@ -11,9 +11,10 @@ A personal expense tracking app built with Go and Gin framework. It allows users
 - **API Testing**: Postman
     
 - **Features**:
-  - Add monthly salary
-  - Log expenses
-  - Update and delete expenses
+- Salary and Expense Management: 
+- CRUD Operations
+- Error Handling and Validation:
+
 
 #Links: 
 - [Demo](https://drive.google.com/file/d/1hWUrDZC_jcpqRa5A08EuZS134KdjixD9/view?usp=drive_link)
@@ -43,8 +44,8 @@ Contributed and collaborated with project managers and developers on an e-commer
 
     
 #Links:
-[Demo](https://drive.google.com/file/d/1glPezV347OwBZpPMLP0LneaZBgpKRN6c/view?usp=drive_link)
-[GitHub Repository]([https://github.com/your-username/project-2](https://github.com/Mariana-consultancy/e-commerce-3)
+- [Demo](https://drive.google.com/file/d/1glPezV347OwBZpPMLP0LneaZBgpKRN6c/view?usp=drive_link)
+- [GitHub Repository]([https://github.com/your-username/project-2](https://github.com/Mariana-consultancy/e-commerce-3)
 
 
 ---

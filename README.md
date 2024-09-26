@@ -20,7 +20,18 @@ Links:
 ## 2. E-Commerce - Sole Select
 Description of Project 2.
 
-- **Tech Stack**: List the technologies used.
+- ## Tech Stack:
+- **Backend**: Go, Gin
+- **Database**: PostgreSQL, GORM
+
+## Deployment:
+- **Backend Deployed on**: Render
+
+## Tools & Project Management:
+- **Version Control**: GitHub
+- **Project Management**: Jira and Slack
+- **API Testing**: Postman
+  
 - **Features**:
   - Describe key features of the project.
 

@@ -11,9 +11,9 @@ A personal expense tracking app built with Go and Gin framework. It allows users
 - **API Testing**: Postman
     
 - **Features**:
-- Salary and Expense Management: 
-- CRUD Operations
-- Error Handling and Validation:
+    - Salary and Expense Management: 
+    - CRUD Operations
+    - Error Handling and Validation:
 
 
 #Links: 

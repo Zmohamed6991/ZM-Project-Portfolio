@@ -5,7 +5,6 @@ Welcome to my project portfolio! Here are some of the projects I’ve worked on:
 ## 1. Expense Tracker
 A personal expense tracking app built with Go and Gin framework. It allows users to track expenses and manage their monthly budgets.
 
-- #Tech Stack:
 - **Backend**: Go, Gin
 - **Database**: PostgreSQL, GORM
 - **API Testing**: Postman

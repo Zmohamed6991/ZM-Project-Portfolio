@@ -45,7 +45,7 @@ Contributed and collaborated with project managers and developers on an e-commer
     
 #Links:
 - [Demo](https://drive.google.com/file/d/1glPezV347OwBZpPMLP0LneaZBgpKRN6c/view?usp=drive_link)
-- [GitHub Repository]([https://github.com/your-username/project-2](https://github.com/Mariana-consultancy/e-commerce-3)
+- [GitHub Repository](https://github.com/Mariana-consultancy/e-commerce-3)
 
 
 ---

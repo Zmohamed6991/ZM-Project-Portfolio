@@ -56,7 +56,18 @@ Description of Project 3.
 ---
 
 ## 3. [Profile Card - HTML5 & CSS]([https://github.com/your-username/project-3](https://github.com/Zmohamed6991/profile_card))
-- A simple profile card I created using HTML5 and CSS.
+- A responsive profile card designed using HTML5 and CSS.
+  
+**Features**:
+- Fully responsive design (works on mobile, tablet, and desktop).
+- Clean and modern layout using Flexbox
+- Custom fonts and colours for a unique look.
+- Interactive hover effects for social media links or buttons.
+- Card includes profile picture, name, title, and social media links.
+
+**Deployed on Netlify**
+[Link]()
+
 
 [View Repository](https://github.com/Zmohamed6991/profile_card))
 

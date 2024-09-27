@@ -69,12 +69,4 @@ Description of Project 3.
 [Link]()
 
 
-[View Repository](https://github.com/Zmohamed6991/profile_card))
-
----
-## 3. [Interior Design Website - HTML5 & CSS ](https://github.com/your-username/project-3)
-Description of Project 3.
-
-[View Repository](https://github.com/your-username/project-3)
-
----
+[View Repository](https://github.com/Zmohamed6991/profile_card)

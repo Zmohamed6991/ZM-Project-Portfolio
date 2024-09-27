@@ -55,10 +55,10 @@ Description of Project 3.
 
 ---
 
-## 3. [Profile Card - HTML5 & CSS](https://github.com/your-username/project-3)
-Description of Project 3.
+## 3. [Profile Card - HTML5 & CSS]([https://github.com/your-username/project-3](https://github.com/Zmohamed6991/profile_card))
+- A simple profile card I created using HTML5 and CSS.
 
-[View Repository](https://github.com/your-username/project-3)
+[View Repository](https://github.com/Zmohamed6991/profile_card))
 
 ---
 ## 3. [Interior Design Website - HTML5 & CSS ](https://github.com/your-username/project-3)

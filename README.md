@@ -21,7 +21,7 @@ A personal expense tracking app built with Go and Gin framework. It allows users
 
 ---
 
-## 2. E-Commerce - Sole Select
+## 2. E-Commerce - Sole Select 
 Contributed and collaborated with project managers and developers on an e-commerce project called Sole Select - a sneaker trading website.
 
 - **Backend**: Go, Gin
@@ -48,7 +48,20 @@ Contributed and collaborated with project managers and developers on an e-commer
 
 ---
 
-## 3. [Project 3](https://github.com/your-username/project-3)
+## 3. [To Do App - React](https://github.com/your-username/project-3)
+Description of Project 3.
+
+[View Repository](https://github.com/your-username/project-3)
+
+---
+
+## 3. [Profile Card - HTML5 & CSS](https://github.com/your-username/project-3)
+Description of Project 3.
+
+[View Repository](https://github.com/your-username/project-3)
+
+---
+## 3. [Interior Design Website - HTML5 & CSS ](https://github.com/your-username/project-3)
 Description of Project 3.
 
 [View Repository](https://github.com/your-username/project-3)

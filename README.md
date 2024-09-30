@@ -1,6 +1,6 @@
 # My Project Portfolio
 
-Welcome to my project portfolio! Here are some of the projects I’ve worked on:
+Welcome to my project portfolio! Here are some of the projects I’ve worked on and some I may still be working on:
 
 ## 1. Expense Tracker
 A personal expense tracking app built with Go and Gin framework. It allows users to track expenses and manage their monthly budgets.

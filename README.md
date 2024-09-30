@@ -50,10 +50,24 @@ Contributed and collaborated with project managers and developers on an e-commer
 
 ## 3. [To Do App - React](https://github.com/your-username/project-3)
 
+# Project Title: To Do App
+
+Description: A simple Todo App built with React where users can add, edit, and delete tasks. 
+
+Technologies Used: React, React Hooks, Javascript, CSS
+
+**Features**:
+- Add and Delete tasks
+- React hooks - useState
+- Input validation to prevent users from adding empty tasks or tasks that contain only whitespace.
+- CSS: for fonts, colour and flebox for responsive design.
+
 
 ![Screenshot 2024-09-30 234435](https://github.com/user-attachments/assets/9db6382a-6e42-4600-b8bf-ba3253a2fbb8)
 
-[Github Repository](https://github.com/Zmohamed6991/simple-to-do-app)
+# Links:
+
+- [Github Repository](https://github.com/Zmohamed6991/simple-to-do-app)
 
 ---
 
@@ -67,8 +81,6 @@ Contributed and collaborated with project managers and developers on an e-commer
 - Interactive hover effects for social media links or buttons.
 - Card includes profile picture, name, title, and social media links.
 
-**Deployed on Netlify**
-[Link]()
+# Links:
 
-
-[View Repository](https://github.com/Zmohamed6991/profile_card)
+- [View Repository](https://github.com/Zmohamed6991/profile_card)

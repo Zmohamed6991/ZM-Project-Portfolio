@@ -81,6 +81,9 @@ Technologies Used: React, React Hooks, Javascript, CSS
 - Interactive hover effects for social media links or buttons.
 - Card includes profile picture, name, title, and social media links.
 
+  ![image](https://github.com/user-attachments/assets/1e5f40b0-622a-4372-b2b9-78cd1a3c57d1)
+
+
 # Links:
 
 - [View Repository](https://github.com/Zmohamed6991/profile_card)

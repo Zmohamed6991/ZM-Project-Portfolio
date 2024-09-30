@@ -10,12 +10,12 @@ A personal expense tracking app built with Go and Gin framework. It allows users
 - **API Testing**: Postman
     
 - **Features**:
-    - Salary and Expense Management: 
+    - Salary and Expense Management
     - CRUD Operations
-    - Error Handling and Validation:
+    - Error Handling and Validation
 
 
-#Links: 
+# Links: 
 - [Demo](https://drive.google.com/file/d/1hWUrDZC_jcpqRa5A08EuZS134KdjixD9/view?usp=drive_link)
 - [Git Hub Repository](https://github.com/Zmohamed6991/Expense-Tracker)
 
@@ -41,7 +41,7 @@ Contributed and collaborated with project managers and developers on an e-commer
   - CRUD APIs.
 
     
-#Links:
+# Links:
 - [Demo](https://drive.google.com/file/d/1M7r4jnwu7ECWie0UOMW3EQeeblQbXheF/view?usp=drive_link)
 - [GitHub Repository](https://github.com/Zmohamed6991/e-commerce-3)
 
@@ -51,7 +51,7 @@ Contributed and collaborated with project managers and developers on an e-commer
 ## 3. [To Do App - React](https://github.com/your-username/project-3)
 Description of Project 3.
 
-[View Repository](https://github.com/your-username/project-3)
+[Github Repository](https://github.com/Zmohamed6991/simple-to-do-app)
 
 ---
 
